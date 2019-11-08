@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataXJson/DataXJson.iml" filepath="$PROJECT_DIR$/DataXJson/DataXJson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySql/MySql.iml" filepath="$PROJECT_DIR$/MySql/MySql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parser.iml" filepath="$PROJECT_DIR$/Parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+    </modules>
+  </component>
+</project>
